@@ -1,0 +1,38 @@
+onnx-gru:ü
+
+X
+W
+R
+B
+sequence_lens
+	initial_hYY_h"GRU*(
+activationsJSigmoidJTanhJSigmoid *
+	direction"bidirectional *
+hidden_size test_gru_mode*m"`jLØ?'èî=EH5¿
+RE?ÿûœ?¯ò'?Îø}¾
+&Ï½cmà?úú?±<?²S?x}E?é'¿·ŸR>zùÃ¿¦Î=q@±¡í=}‚%@rvÆ¾.«A?¼Nñ¿!U§¿BW*m"`ê¿ÊT?<?²,?÷<§¿ÉHú>X°¿?Œ?ëŠy¾|H?@"¿>%—¾á™?_x!¿ü¥ı=ÿHQ>e™â¿T=Z’¿¯î¿Ü}N?lI@xR™>Ùt\¿BR*k"`¢.?ÖÉ¿R›å¾Fw?ç¼?”‡¿Ø½¿íİ§>ø*M¿Ó‘ñ>úai?9Œ¿‚ŸI¿\õ×¾{ÂÏ<}Õ¾x‹˜½!8´?íÒë¿&ÉV?hùº¿ƒµ½ï}¿½Z ¿BBZ
+X
+
+
+
+Z
+sequence_lens
+
+
+Z
+	initial_h
+
+
+
+b
+Y
+
+
+
+
+b
+Y_h
+
+
+
+B
